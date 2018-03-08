@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.clickButton{
+	margin: 10px;
+	height: 250px;
+	width: 300px;
+	color: red;
+}
+
+.clickButton button{
+	color: green;
+	width: 300px;
+	height: 300px;
+	border: 10px solid red;
+	border-radius: 15px;
+	outline: none;
+}
